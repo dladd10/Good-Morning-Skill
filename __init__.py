@@ -30,7 +30,7 @@ class GoodMorningSkill(MycroftSkill):
     #What Mycroft is to do
     def handle_goodmorningintent(self, message):
         # TODO Say Good Morning
-        self.speak_dialog("GoodMorningReply")
+        self.speak_dialog("goodmorningreply")
 
 	#Tell you the date
 	##todaydate = datetime.datetime.now().strftime("%B %d, %Y")
