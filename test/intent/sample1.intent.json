@@ -2,6 +2,6 @@
   "utterance": "Good Morning",
   "intent_type": "GoodMorningIntent",
   "intent": {
-    "Good.Morning": "Good Morning"
+    "GoodMorning": "Good Morning"
   }
 }
